@@ -1,0 +1,3 @@
+# ParallelFutureGroup
+
+sbt run
