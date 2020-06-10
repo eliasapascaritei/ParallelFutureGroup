@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/parallel-execution_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/Boot$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala/Boot$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/Boot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala/Boot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/Boot$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala/Boot$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/Boot$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala/Boot$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/Boot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/whitetiger/workspace/sefaira/Parallel execution/target/scala-2.12/classes/com/scala/Boot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
