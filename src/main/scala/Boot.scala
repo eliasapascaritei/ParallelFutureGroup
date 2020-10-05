@@ -72,11 +72,4 @@ object Boot extends App {
   val users: Future[Seq[User]] = runParallellyByGroups[User](futures, groupSize)
 
   Await.result(users, Duration.Inf)
-
-  // Q: Please explain why runParallellyByGroups accepts Seq[() => Future[T]] but not just Seq[Future[T]]
-
-  // A:
-  // The signature of method getUser(id) starts with Future {...}, which is actually - def Future.apply[T](body: => T)
-  // By-name parameter, is evaluated every time it is used
-
 }
